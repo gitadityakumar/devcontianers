@@ -1,0 +1,10 @@
+{
+	"name": "Testing dev containers",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"remoteUser": "node",
+	"features": {
+		"ghcr.io/cirolosapio/devcontainers-features/alpine-curl:0": {}
+	}
+}
